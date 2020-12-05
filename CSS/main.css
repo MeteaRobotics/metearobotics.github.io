@@ -3,16 +3,17 @@ body {
 }
 
 li {
-  font-size: 20px;
+  font-size: 18px;
   padding: 5px;
 }
 
 p {
   text-align: center;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .title {
+  color: white;
   text-align: center;
   font-size: 55px;
 }
@@ -23,7 +24,7 @@ p {
 }
 
 .div {
-   padding-left: 150px;
+  padding-left: 150px;
 }
 
 .separate {
@@ -38,4 +39,10 @@ p {
   text-align: center;
   color: black;
   background-color: gold;
+}
+
+.backImg {
+  background-image: url('award.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
