@@ -1,11 +1,10 @@
 body {
-  font-family: serif;
-  background-image: linear-gradient(to bottom, gold, yellow);
-  height: 2000px;
+  font-family: 'Garamond', serif;
 }
 
 li {
   font-size: 20px;
+  padding: 5px;
 }
 
 p {
@@ -31,12 +30,12 @@ p {
   padding-left: 0px;
   height: 5px;
   border: 1px;
-  background-color: black;
+  background-color: gold;
 }
 
 .former {
   font-size: 40px;
   text-align: center;
-  color: yellow;
-  background-color: black;
+  color: black;
+  background-color: gold;
 }
