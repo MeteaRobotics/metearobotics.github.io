@@ -8,11 +8,8 @@ li {
 }
 
 p {
+  text-align: center;
   font-size: 16px;
-}
-
-.center {
-  text-align:center;
 }
 
 .title {
@@ -51,6 +48,15 @@ p {
 }
 
 .nav {
+  text-align: right;
   background-color: black;
-  height: 45px;
+  height: 60px;
+}
+
+.button {
+  margin-left: 25px;
+  margin-right: 10px;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
 }
