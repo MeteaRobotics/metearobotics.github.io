@@ -8,8 +8,11 @@ li {
 }
 
 p {
-  text-align: center;
   font-size: 16px;
+}
+
+.center {
+  text-align: center;
 }
 
 .title {
