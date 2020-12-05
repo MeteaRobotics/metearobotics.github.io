@@ -1,0 +1,42 @@
+body {
+  font-family: serif;
+  background-image: linear-gradient(to bottom, gold, yellow);
+  height: 2000px;
+}
+
+li {
+  font-size: 20px;
+}
+
+p {
+  text-align: center;
+  font-size: 18px;
+}
+
+.title {
+  text-align: center;
+  font-size: 55px;
+}
+
+.header {
+  text-align: left;
+  font-size: 30px;
+}
+
+.div {
+   padding-left: 150px;
+}
+
+.separate {
+  padding-left: 0px;
+  height: 5px;
+  border: 1px;
+  background-color: black;
+}
+
+.former {
+  font-size: 40px;
+  text-align: center;
+  color: yellow;
+  background-color: black;
+}
