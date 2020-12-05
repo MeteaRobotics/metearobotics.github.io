@@ -46,3 +46,8 @@ p {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.nav {
+  background-color: black;
+  height: 100px;
+}
