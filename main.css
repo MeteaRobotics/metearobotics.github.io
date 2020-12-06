@@ -1,3 +1,4 @@
+<!-- All -->
 body {
   font-family: 'Garamond', serif;
 }
@@ -11,6 +12,7 @@ p {
   font-size: 16px;
 }
 
+<!-- Triumphs -->
 .center {
   text-align: center;
 }
@@ -50,6 +52,7 @@ p {
   background-size: cover;
 }
 
+<!-- Navigation Bar -->
 .nav {
   text-align: right;
   background-color: black;
@@ -62,4 +65,23 @@ p {
   font-size: 20px;
   color: white;
   text-decoration: none;
+}
+
+<!-- Summer Camps -->
+.tablesize1 {
+	   width: 250px;
+	   height: 200px;
+     background-image: url(https://www.ipsdsummerrobotics.com/uploads/b/a5e5eb20-54e9-11e9-965b-dd84a8509f89/20190712_145621.jpg?width=400&height:400);
+}
+
+.tablesize2 {
+	   width: 250px;
+	   height: 200px;
+     background-image: url(https://i.postimg.cc/T1x0wtZP/Summer-Camp3.jpgwidth=500&height:500);
+}
+
+.tablesize3 {
+  width: 250px;
+	height: 200px;
+  background-image: url(https://i.postimg.cc/LXYwfQCB/Summer-Camp1.jpgwidth=400&height:400);
 }
