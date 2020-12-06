@@ -1,4 +1,3 @@
-<!-- All -->
 body {
   font-family: 'Garamond', serif;
 }
@@ -12,7 +11,6 @@ p {
   font-size: 16px;
 }
 
-<!-- Triumphs -->
 .center {
   text-align: center;
 }
@@ -52,7 +50,6 @@ p {
   background-size: cover;
 }
 
-<!-- Navigation Bar -->
 .nav {
   text-align: right;
   background-color: black;
@@ -67,7 +64,6 @@ p {
   text-decoration: none;
 }
 
-<!-- Summer Camps -->
 .tablesize1 {
 	   width: 250px;
 	   height: 200px;
