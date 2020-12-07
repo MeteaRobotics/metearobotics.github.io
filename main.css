@@ -78,11 +78,11 @@ p {
   height: 60px;
 }
 
-.tabs a {
+a {
   transition: 0.3s;
 }
 
-.tabs a:hover {
+a:hover {
   color:yellow;
 }
 
