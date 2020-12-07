@@ -84,6 +84,10 @@ p {
   height: 60px;
 }
 
+.nav h2 {
+  float:left
+}
+
 .button {
   margin-left: 25px;
   margin-right: 10px;
