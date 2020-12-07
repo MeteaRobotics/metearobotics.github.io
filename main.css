@@ -86,6 +86,10 @@ a:hover {
   color:yellow;
 }
 
+.tabs {
+  padding-right: 30px; 
+}
+
 .designImg {
   background-image: url('design.jpg');
   background-repeat: no-repeat;
