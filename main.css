@@ -72,15 +72,16 @@ p {
   background-size: cover;
 }
 
+.nav {
+  text-align: right;
+  background-color: black;
+  height: 60px;
+}
+
 .designImg {
   background-image: url('design.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-}
-
-.logo {
-  float:left;
-  color: white;
 }
 
 .button {
@@ -89,12 +90,6 @@ p {
   font-size: 20px;
   color: white;
   text-decoration: none;
-}
-
-.nav {
-  text-align: right;
-  background-color: black;
-  height: 60px;
 }
 
 .tablesize1 {
