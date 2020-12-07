@@ -90,10 +90,6 @@ a:hover {
   padding-right: 30px; 
 }
 
-.links:hover {
-  color:blue;
-}
-
 .designImg {
   background-image: url('design.jpg');
   background-repeat: no-repeat;
