@@ -11,6 +11,11 @@ p {
   font-size: 20px;
 }
 
+a:hover {
+  transition: 0.3s;
+  color: yellow;
+}
+
 .center {
   text-align: center;
 }
@@ -43,6 +48,80 @@ p {
 
 .newSection {
   font-size: 40px;
+  text-align: center;
+  color: black;
+  background-color: gold;
+}
+
+.homeImg {
+  background-image: url('home.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.usImg {
+  background-image: url('aboutUs.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.campImg {
+  background-image: url('summercamp.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.triumphsImg {
+  background-image: url('award.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.nav {
+  text-align: right;
+  background-color: black;
+  height: 60px;
+}
+
+.tabs {
+  padding-right: 30px; 
+}
+
+A.regLinks:hover {
+  color:blue;
+}
+
+.designImg {
+  background-image: url('design.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.button {
+  margin-left: 25px;
+  margin-right: 10px;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.tablesize1 {
+  width: 250px;
+  height: 200px;
+  background-image: url(https://www.ipsdsummerrobotics.com/uploads/b/a5e5eb20-54e9-11e9-965b-dd84a8509f89/20190712_145621.jpg?width=400&height:400);
+}
+
+.tablesize2 {
+  width: 250px;
+  height: 200px;
+  background-image: url(https://i.postimg.cc/T1x0wtZP/Summer-Camp3.jpgwidth=500&height:500);
+}
+
+.tablesize3 {
+  width: 250px;
+  height: 200px;
+  background-image: url(https://i.postimg.cc/LXYwfQCB/Summer-Camp1.jpgwidth=400&height:400);
+};
   text-align: center;
   color: black;
   background-color: gold;
