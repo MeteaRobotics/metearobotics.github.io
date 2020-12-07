@@ -84,6 +84,10 @@ p {
   height: 60px;
 }
 
+nav li {
+  float:left
+}
+
 .nav h2 {
   float:left
 }
