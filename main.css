@@ -83,11 +83,15 @@ a {
 }
 
 a:hover {
-  color:yellow;
+  color: yellow;
 }
 
 .tabs {
   padding-right: 30px; 
+}
+
+.regLinks {
+  color: blue;
 }
 
 .designImg {
