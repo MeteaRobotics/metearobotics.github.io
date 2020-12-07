@@ -78,12 +78,10 @@ p {
   background-size: cover;
 }
 
-.navigation {
-  margin: 0 auto;
-}
-
-header {
-  background: #000000;
+.nav {
+  text-align: right;
+  background-color: black;
+  height: 60px;
 }
 
 .nav a {
