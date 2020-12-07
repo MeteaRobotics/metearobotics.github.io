@@ -85,7 +85,7 @@ p {
   float:right;
 }
 
-.nav li {
+.nav a {
   display: inline-block;
 }
 
