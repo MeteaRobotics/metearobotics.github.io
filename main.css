@@ -204,3 +204,13 @@ a:hover {
   height: 200px;
   background-image: url(https://i.postimg.cc/LXYwfQCB/Summer-Camp1.jpgwidth=400&height:400);
 }
+
+.outline
+{
+  color: black;
+  text-shadow:
+  -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;  
+}
