@@ -78,10 +78,13 @@ p {
   background-size: cover;
 }
 
-.nav {
-  text-align: right;
-  background-color: black;
-  height: 60px;
+.navigation {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header {
+  background: #000000;
 }
 
 .nav a {
