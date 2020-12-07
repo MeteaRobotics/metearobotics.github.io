@@ -82,14 +82,13 @@ p {
   text-align: right;
   background-color: black;
   height: 60px;
-  float:right;
 }
 
 nav li {
-  float:left;
+  float:right;
 }
 
-.logo {
+nav h2 {
   float:left;
   color: white;
 }
