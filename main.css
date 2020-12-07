@@ -212,5 +212,6 @@ a:hover {
   -1px -1px 0 #000,
   1px -1px 0 #000,
   -1px 1px 0 #000,
-  1px 1px 0 #000;  
+  1px 1px 0 #000;
+  opacity: 50%;
 }
