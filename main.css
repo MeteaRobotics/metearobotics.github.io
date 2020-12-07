@@ -84,9 +84,8 @@ p {
   height: 60px;
 }
 
-a {
+.nav a {
   float:right;
-  display: inline-block;
 }
 
 .logo {
