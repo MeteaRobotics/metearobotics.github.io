@@ -206,11 +206,9 @@ a:hover {
 }
 
 .outline {
-  color: black;
   text-shadow:
-  -1px -1px 0 #000,
-  1px -1px 0 #000,
-  -1px 1px 0 #000,
-  1px 1px 0 #000,
-  opacity: 50%;
+  -1px -1px 0 rgba(0, 0, 0, 50%),
+  1px -1px 0 rgba(0, 0, 0, 50%),
+  -1px 1px 0 rgba(0, 0, 0, 50%),
+  1px 1px 0 rgba(0, 0, 0, 50%);
 }
