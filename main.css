@@ -90,7 +90,7 @@ nav li {
 
 .nav h2 {
   float:left
-  padding-left: 10px
+  padding: 5px 50px;
 }
 
 .button {
