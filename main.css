@@ -78,6 +78,15 @@ p {
   height: 60px;
 }
 
+.nav a {
+  
+}
+
+.nav a:hover {
+  color:yellow;
+  transition: 0.3s;
+}
+
 .designImg {
   background-image: url('design.jpg');
   background-repeat: no-repeat;
