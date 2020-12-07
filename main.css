@@ -78,16 +78,6 @@ p {
   background-size: cover;
 }
 
-.nav {
-  text-align: right;
-  background-color: black;
-  height: 60px;
-}
-
-.nav a {
-  float:right;
-}
-
 .logo {
   float:left;
   color: white;
@@ -99,6 +89,12 @@ p {
   font-size: 20px;
   color: white;
   text-decoration: none;
+}
+
+.nav {
+  text-align: right;
+  background-color: black;
+  height: 60px;
 }
 
 .tablesize1 {
