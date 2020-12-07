@@ -78,11 +78,11 @@ p {
   height: 60px;
 }
 
-.nav a {
+a {
   
 }
 
-.nav a:hover {
+a:hover {
   color:yellow;
   transition: 0.3s;
 }
