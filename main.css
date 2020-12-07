@@ -82,11 +82,10 @@ p {
   text-align: right;
   background-color: black;
   height: 60px;
-  float:right;
 }
 
 .nav a {
-  display: inline-block;
+  float:right;
 }
 
 .logo {
