@@ -86,7 +86,7 @@ p {
 }
 
 nav li {
-  
+  display: inline-block;
 }
 
 .logo {
