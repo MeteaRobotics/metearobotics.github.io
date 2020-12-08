@@ -84,11 +84,11 @@ a:hover {
 }
 
 .tabs {
-  padding-right: 30px; 
+  padding-right: 30px;
 }
 
-A.regLinks:hover {
-  color:blue;
+a.regLinks:hover {
+  color: blue;
 }
 
 .designImg {
